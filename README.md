@@ -45,6 +45,8 @@
 -Kilogram girildikten sonra satınal butonuna basarsak, satınalma işlemi tamamlanıyor ve satın alma ekranı kapanıyor.
 -Satınalma ekranı kapandıktan sonra satınaldığı şeylerin bilgileri ve nekadar ödediği gösteriliyor 2 saniye sonra kayboluyor.
 -Timer bittikten sonra "Süren doldu" uyarısı geliyor oyun bitiyor.
+
+
 [![suren-doldu.png](https://www.resimupload.org/images/2024/05/27/suren-doldu.png)](https://www.resimupload.org/r/7oVL1q)
 
 
@@ -52,6 +54,8 @@
 ## _Hesap Yeteneği_(100 Üzerinden)
 [![bos.png](https://www.resimupload.org/images/2024/05/27/bos.png)](https://www.resimupload.org/r/7dfFMI)
 [![hesapyetenegi-input299cb00444c42158.png](https://www.resimupload.org/images/2024/05/27/hesapyetenegi-input299cb00444c42158.png)](https://www.resimupload.org/r/7o7ZKV)
+
+
 -İlk önce oyuncunun karşısına oyuncudan bazı bilgilerin alınacağı belirtiliyor.
 -Onayla butonuna basıldığında, puanlama aşamasına geçilmiş olunuyor.
 -İlk gelen kısım hesaplama yeteneği, oyuncudan pazarda harcadığı para miktarının girilmesi isteniyor.
@@ -64,10 +68,16 @@ onayla butonuna basıldıktan sonra dikkat yateneğinin hesaplanmasına geçiliy
 -Dikkat yeteneği hesaplanırken, oyuncu meyve veya sebze sayısını eksik yada fazla girerse her birim için -5 puan alıyor.
 -Onayla butonuna bastığında Puan ekranına geçiliyor.
 [![hafiza.png](https://www.resimupload.org/images/2024/05/27/hafiza.png)](https://www.resimupload.org/r/7dfK0E)
-[![puan-ekrani.png](https://www.resimupload.org/images/2024/05/27/puan-ekrani.png)](https://www.resimupload.org/r/7dfJCL)
 
 ## _Hafıza Yeteneği_(100 üzerinden)
--Hafıza yeteneği şu şekilde hesaplanıyor,
+-Hafıza yeteneği şu şekilde hesaplanıyor, alışveriş listesindeki üründelerden aldığımız her biri için +5 puan her doğru kilo için +5 puan yanlış alınan ürün için -5 ceza puanı veriliyor.
+## _Puan Ekranı_
+-Puan ekranında alınan puanlar ilgili alanlara yerleştiriliyor.
+-Ekranın sağ üst köşesinde bulunan home butonu anamenüye dönememizi sağlıyor.
+-Tekrar oyna butonuna basıldığında oyun yeniden başlar ve alışverişlistesi ksımından devam eder.
+[![puan-ekrani.png](https://www.resimupload.org/images/2024/05/27/puan-ekrani.png)](https://www.resimupload.org/r/7dfJCL)
+ [![alisverisListesi.png](https://www.resimupload.org/images/2024/05/27/alisverisListesi.png)](https://www.resimupload.org/r/7dfeaz)
+
 
   
 - 
