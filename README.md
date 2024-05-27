@@ -2,6 +2,8 @@
 
 Bu oyun, bir işletmenin işe alım sürecinde, başvuru yapan kişilerin işlem, hafıza ve dikkat yeteneklerini ölçmek için yapılmıştır. Bursa Uludağ Üniversitesi Yönetim Bilişim Sistemleri Final ödevidir.
 
+Oyunun konusu, oyuncu adlığı alışveriş listesindeki ürünleri belirlenen kilogramlarda alıp istenen soruları cevaplamlarıdır. Bu sayede oyuncun hesap,dikkat ve hafıza yeneklerini puanlıyor.
+
 [YouTube Tanıtım Videosu](https://www.youtube.com/watch?v=19a-nBJiB04)
 
 ## Menü Ekranı
